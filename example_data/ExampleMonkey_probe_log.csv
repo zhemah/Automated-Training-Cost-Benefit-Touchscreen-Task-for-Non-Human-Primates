@@ -1,0 +1,13 @@
+Subject,SessionUID,Date,Time Stim On,N Level,Trial #,Trial Type,Cue Touches Required,Cue Touches Completed,Cue Interaction Duration (ms),First Cue Touch RT (ms),Circle Touch Latency (ms),Correct Trial?,Pellets Dispensed,Pellet Delivered?,Error Type,InterTouchLockout,PrematureTouches
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:12:05,6,1,HCHR,6,6,8033,508,1910.9,1,3,Yes,None,100-300,2
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:14:05,6,2,HCHR,6,6,3887,1396,2201.0,1,3,Yes,None,100-300,1
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:16:05,6,3,HCHR,6,6,8567,1023,1664.0,1,3,Yes,None,100-300,1
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:18:05,6,4,HCHR,6,6,5162,993,1121.1,1,3,Yes,None,100-300,0
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:12:05,8,1,HCHR,8,8,7926,879,704.6,1,3,Yes,None,100-300,0
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:14:05,8,2,HCHR,8,8,6502,1393,2687.8,1,3,Yes,None,100-300,1
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:16:05,8,3,HCHR,8,8,4558,529,795.2,1,3,Yes,None,100-300,1
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:18:05,8,4,HCHR,8,8,3551,1080,880.0,1,3,Yes,None,100-300,1
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:12:05,10,1,HCHR,10,10,5654,460,2905.0,1,3,Yes,None,100-300,0
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:14:05,10,2,HCHR,10,10,8463,1022,1350.3,1,3,Yes,None,100-300,0
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:16:05,10,3,HCHR,10,10,7069,1397,1949.7,1,3,Yes,None,100-300,1
+ExampleMonkey,ExampleMonkey_probe_20260115_14102,01-15-2026,14:18:05,10,4,HCHR,10,2,60000,520,2599.9,0,0,N/A,hchr_incomplete_timeout,100-300,0
