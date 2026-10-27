@@ -67,7 +67,7 @@ Every trial starts the same way: a cyan circle appears on a black screen. When t
 animal touches it, a colored shape appears behind the circle. That shape is the cue
 for what this trial will cost and what it will pay.
 
-| Shape | Color | Taps needed | Pellets | In plain terms |
+| Shape | Color | Taps needed | Pellets | Meaning |
 | --- | --- | --- | --- | --- |
 | Diamond | Gold | Many | 3 | Hard work, big payoff |
 | Flower | Gray | Many | 1 | Hard work, small payoff |
@@ -136,7 +136,7 @@ has already finished training.
 
 ## Effort level
 
-"Many taps" isn't a fixed number — it's worked out per animal, because what's
+"Many taps" isn't a fixed number; it's different per animal, because what's
 demanding for one animal is easy for another.
 
 During training, the program gradually increases the number of taps required and
